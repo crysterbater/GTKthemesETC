@@ -1,12 +1,12 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=Arc-Ass
+Name=shitpost
 Comment=A flat theme with transparent elements
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=Arc-Ass
-MetacityTheme=Arc-Ass
+GtkTheme=shitpost
+MetacityTheme=shitpost
 IconTheme=gnome
 CursorTheme=DMZ-Black
 ButtonLayout=menu:minimize,maximize,close

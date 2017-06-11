@@ -3,12 +3,12 @@
 #OR THINGS WITH 55424b as this are the colors that my program searchs and replaces
 #everything else is editable, please edit themerc.base instead of themerc
 
-border.width: 0
+menu.border.width: 3
 menu.border.color: #151B24
 menu.border.width: 0
 menu.items.active.bg: Solid Flat
 menu.items.active.bg.color: #101216
-menu.items.active.text.color: #066BCC
+menu.items.active.text.color: #647396
 menu.items.bg: Flat Solid
 menu.items.bg.color: #191F24
 menu.items.disabled.text.color: #c3c3c3
@@ -18,7 +18,7 @@ menu.overlap: 0
 menu.separator.color: #151B24
 menu.title.bg: Solid Flat
 menu.title.bg.color: #101216
-menu.title.text.color: #5A8DD2
+menu.title.text.color: #ffffff
 menu.title.text.font: shadow=n
 menu.title.text.justify: center
 osd.bg: flat border vertical gradient
@@ -30,6 +30,7 @@ osd.border.width: 3
 osd.label.bg: parentrelative
 osd.label.text.color: #f0f0f0
 padding.height: 6
+window.border.width: 2
 window.active.border.color: #947181
 window.inactive.border.color: #55424b
 window.active.button.disabled.bg: Solid Flat

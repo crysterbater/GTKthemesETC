@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=lesser
+Comment=triggered!!!!
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+Name=lesser
+GtkTheme=lesser
+IconTheme=lesser
+MetacityTheme=lesser
